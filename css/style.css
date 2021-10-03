@@ -3482,6 +3482,10 @@ input[type="button"].btn-block {
     position: static;
     float: none; }
 
+  .navbar-nav .nav-lang{
+    margin-right: 1rem;
+  }
+
 .navbar-text {
   display: inline-block;
   padding-top: 0.5rem;
